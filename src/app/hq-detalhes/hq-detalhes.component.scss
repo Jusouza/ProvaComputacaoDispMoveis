@@ -1,0 +1,35 @@
+img {
+    width: 100%;
+}
+.nav-wrapper > .col.s12 {
+    margin-left: 1rem;
+}
+
+h2, h3 {
+    font-family: 'marvel';
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+main {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.descricao > p {
+    font-size: 13px;
+}
+
+a {
+    margin-bottom: 3rem;
+}
+
+.breadcrumb {
+    cursor: pointer;
+}
+
+.breadcrumb:last-child {
+    cursor: default;
+}

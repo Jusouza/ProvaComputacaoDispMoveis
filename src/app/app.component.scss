@@ -1,0 +1,29 @@
+header {
+    top: 0px;
+    color: #fff;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+    display: block;
+    position: absolute;
+    h1 {
+        font-family: "Marvel";
+        margin: 0;
+    }
+}
+main {
+    width: 100%;
+    padding: 4rem 0 1rem 0;
+    height: 100%;
+    min-height: 100vh;
+}
+
+footer {
+    z-index: 99;
+    bottom: 0;
+    position: fixed;
+    color: #fff;
+    width: 100%;
+    height: 45px;
+    display: block;
+}
